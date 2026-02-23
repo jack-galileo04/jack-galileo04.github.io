@@ -9,9 +9,16 @@ I build models and dashboards using R, Python, SQL, and Power BI.
 ## Featured Projects
 
 ### 🏆 EPL Match Prediction Model (R, tidyverse, tidymodels)
-Predictive model using player-level granularity, rolling averages, special metrics (xG, xGChain...), bookmaker odds, and ML techniques.
+Predictive model using player-level granularity, rolling averages, special metrics (xG, xGChain...), ELO, bookmaker odds, and ML techniques.
 
 👉 (Code coming soon)
+
+---
+
+### 🏆 NRL Match Prediction Model (R, tidyverse, tidymodels)
+Predictive model using match-level granularity, rolling averages, special metrics (xG, xGChain...), ELO, bookmaker odds, and ML techniques.
+
+👉 View the full project here: https://github.com/jack-galileo04/nrl-analytics
 
 ---
 
