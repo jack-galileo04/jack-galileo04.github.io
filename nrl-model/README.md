@@ -3,7 +3,7 @@
 ### Tools: R, tidymodels, tidyverse, xgboost, lasso-regression, random forests, stacking  
 ### Problem: Predict EPL match outcomes (H/A)  
 ### Metric: Multinomial Log Loss
-### Best result: x
+### Best result: Log Loss of 0.55 (binary classification)
 
 ## Overview
 This project builds a predictive model using:
