@@ -13,6 +13,9 @@ This project builds a predictive model using:
 - differential features
 - model tuning with tidymodels
 
+## Data
+Data is sourced from https://www.aussportsbetting.com/data/historical-nrl-results-and-odds-data/
+
 ## Repository Structure
 / data/ raw processed/ scripts/ cleaning.R feature_engineering.R modelling.R evaluation.R
 
