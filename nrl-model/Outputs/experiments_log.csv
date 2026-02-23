@@ -1,0 +1,5 @@
+timestamp,algorithm,feature_set,resample_scheme,logloss,notes
+2026-02-23T01:43:37Z,xgb,"odds, elos, stats, forms",5 cv folds,0.5879082749570287,
+2026-02-23T01:51:19Z,rf,"odds, elos, stats, forms",5 cv folds,0.6152865739882887,
+2026-02-23T01:51:30Z,lasso,"odds, elos, stats, forms",5 cv folds,0.5549492765707137,
+2026-02-23T02:05:02Z,final stack,"odds, elos, stats, forms",5 cv folds,0.8409399052945874,
