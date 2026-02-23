@@ -17,7 +17,7 @@ This project builds a predictive model using:
 Data is sourced from https://www.aussportsbetting.com/data/historical-nrl-results-and-odds-data/
 
 ## Repository Structure
-/ data/ raw processed/ scripts/ cleaning.R feature_engineering.R modelling.R evaluation.R
+/ data/ raw/ nrl.xlsx / processed/clean_matches.csv feature_engineered.csv / scripts/ helper_functions_packages.R cleaning_script.R feature_engineering_script.R modelling_script.R evaluation_script.R
 
 ## Results
 - Best log loss: x
