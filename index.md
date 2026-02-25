@@ -29,6 +29,11 @@ A personalised projection model incorporating financial forecasting, demographic
 
 ---
 
+### AusTender Contracts Report (Power BI)
+An interactive report visualising Australian contract insights using time series and snapshot data across supplier, agencies and categories.
+
+👉 View the full project here: https://github.com/jack-galileo04/austender-report
+
 ### 🧠 First Python ML Project (from x)
 End-to-end machine learning workflow (data cleaning → modelling → evaluation).
 
