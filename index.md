@@ -33,6 +33,7 @@ A personalised projection model incorporating financial forecasting, demographic
 An interactive report visualising Australian contract insights using time series and snapshot data across supplier, agencies and categories.
 
 👉 View the full project here: https://github.com/jack-galileo04/austender-report
+
 👉 View the report here: https://app.powerbi.com/view?r=eyJrIjoiNjhhZGM1ZjktN2U2Ni00OGQ0LThhYzItNTk3OGUzYjM4MjM5IiwidCI6IjNhYTEyYWIxLWQyNGEtNGI0Yy04YjI0LTk5ZWI3ODE2YzJjZSJ9&pageName=b31bb2a99dd0f4653f90
 
 ---
