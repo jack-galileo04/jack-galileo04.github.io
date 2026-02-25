@@ -34,6 +34,8 @@ An interactive report visualising Australian contract insights using time series
 
 👉 View the full project here: https://github.com/jack-galileo04/austender-report
 
+---
+
 ### 🧠 First Python ML Project (from x)
 End-to-end machine learning workflow (data cleaning → modelling → evaluation).
 
