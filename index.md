@@ -25,7 +25,9 @@ Predictive model using match-level granularity, rolling averages, special metric
 ### 💰 Retirement Modelling Dashboard (Power BI + R)
 A personalised projection model incorporating financial forecasting, demographic forecasting, and Monte-Carlo simulations.
 
-👉 (Screenshots + write-up coming soon)
+👉 View the full project here: https://github.com/jack-galileo04/retirement-report
+
+👉 View the report here: https://app.powerbi.com/view?r=eyJrIjoiNDgyMGQ5YzEtNWI4Mi00ZDhlLThiMGMtOWJkMzZlYTc3NzAyIiwidCI6IjNhYTEyYWIxLWQyNGEtNGI0Yy04YjI0LTk5ZWI3ODE2YzJjZSJ9&pageName=f4c125951603c0da0ae3
 
 ---
 
