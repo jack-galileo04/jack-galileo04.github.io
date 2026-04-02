@@ -62,10 +62,7 @@ End-to-end machine learning workflow (data cleaning → modelling → evaluation
 ---
 
 ## About Me
-- Actuarial Science Graduate (ANU)  
+- Actuarial Science Graduate
 - Experience with R, Excel, Python, Power BI, SQL.
-- Interested in different data fields, consulting, BI, and finance.
-
-Email: jackg04@outlook.com.au
 
 ---
