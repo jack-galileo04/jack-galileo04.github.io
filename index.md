@@ -43,21 +43,21 @@ An interactive report visualising Australian contract insights using time series
 ### 💰 Motor Vehicle Insurance Pricing Model
 End-to-end machine learning project, with exploratory data analysis and regression techniques to price motor vehicle insurance policies.
 
-👉 View the full project here: [AusTender Project](https://github.com/jack-galileo04/Motor-Insurance-Pricing)
+👉 View the full project here: [Motor Insurance Pricing Model](https://github.com/jack-galileo04/Motor-Insurance-Pricing)
 
 ---
 
 ### 💰 Loan Default Prediction Model
 End-to-end machine learning project, with exploratory data analysis and nearest neighbour classification techniques to analyse and predict loan defaults.
 
-👉 View the full project here: [AusTender Project](https://github.com/jack-galileo04/Motor-Insurance-Pricing)
+👉 View the full project here: [Loan Default Model](https://github.com/jack-galileo04/Loan-Default-Risk)
 
 ---
 
 ### 🧠 First Python ML Project (from x)
 End-to-end machine learning workflow (data cleaning → modelling → evaluation).
 
-👉 View the full project here: [AusTender Project](https://github.com/jack-galileo04/Loan-Default-Risk)
+👉 Coming soon!
 
 ---
 
