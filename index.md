@@ -54,6 +54,13 @@ End-to-end machine learning project, with exploratory data analysis and nearest 
 
 ---
 
+### 💰 General Insurance Pricing Model
+End-to-end actuarial pricing project, with concise exploratory data analysis, GLM modelling of claim frequency and severity, and segment analysis on loss ratios.
+
+👉 View the full project here: [GI Pricing Model](https://github.com/jack-galileo04/GI-Pricing-Model)
+
+---
+
 ### 🧠 First Python ML Project (from x)
 End-to-end machine learning workflow (data cleaning → modelling → evaluation).
 
@@ -64,5 +71,5 @@ End-to-end machine learning workflow (data cleaning → modelling → evaluation
 ## About Me
 - Actuarial Science Graduate
 - Experience with R, Excel, Python, Power BI, SQL.
-
+- Passionate about data anlysis, data science and statistical modelling.
 ---
