@@ -31,6 +31,15 @@ A personalised projection model incorporating financial forecasting, demographic
 
 ---
 
+### Government Grants Report (Power BI + SQL)
+An interactive report visualising Australian Government Grants insights, incorporating time series analysis, concentration risk assurance, and distribution across various parameters.
+
+👉 View the full project here: [Government Grants Project](https://github.com/jack-galileo04/grants-report)
+
+👉 View the report here: [Government Grants Report](https://app.powerbi.com/links/Xqq0QIlvia?ctid=3aa12ab1-d24a-4b4c-8b24-99eb7816c2ce&pbi_source=linkShare)
+
+---
+
 ### AusTender Contracts Report (Power BI)
 An interactive report visualising Australian contract insights using time series and snapshot data across supplier, agencies and categories.
 
