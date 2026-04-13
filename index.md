@@ -34,8 +34,6 @@ A personalised projection model incorporating financial forecasting, demographic
 ### Government Grants Report (Power BI + SQL)
 STATUS: Publishing in Progress (report/repo links are unavailable)
 
-![First page preview](https://1drv.ms/i/c/109cad75520cd39f/IQBLDD1R-YehS6m3KMnNmF23ARU9jtHbriZuSazEspBFWvM?e=cXrJIs)
-
 An interactive report visualising Australian Government Grants insights, incorporating time series analysis, concentration risk assurance, and distribution across various parameters.
 
 👉 View the full project here: [Government Grants Project](https://github.com/jack-galileo04/grants-report)
