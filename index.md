@@ -32,7 +32,7 @@ A personalised projection model incorporating financial forecasting, demographic
 ---
 
 ### Government Grants Report (Power BI + SQL)
-STATUS: Publishing in Progress (report link is unavailable)
+STATUS: Publishing in Progress (report/repo links are unavailable)
 
 ![First page preview](https://1drv.ms/i/c/109cad75520cd39f/IQBLDD1R-YehS6m3KMnNmF23ARU9jtHbriZuSazEspBFWvM?e=cXrJIs)
 
