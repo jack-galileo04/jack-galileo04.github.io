@@ -41,7 +41,7 @@ An interactive report visualising Australian Government Grants insights, incorpo
 ---
 
 ### AusTender Contracts Report (Power BI)
-An interactive report visualising Australian contract insights using time series and snapshot data across supplier, agencies and categories.
+An interactive report visualising Australian contract insights using time series and snapshot data across suppliers, agencies, and categories.
 
 👉 View the full project here: [AusTender Project](https://github.com/jack-galileo04/austender-report)
 
@@ -49,21 +49,28 @@ An interactive report visualising Australian contract insights using time series
 
 ---
 
-### 💰 Motor Vehicle Insurance Pricing Model
+### NDIS Scheme Cost Growth and Fiscal Risk Report (R, tidyverse + Microsoft Word)
+A written report, analysing the medium-term fiscal sustainability of the Australian National Disability Insurance Scheme, using demographic and economic modelling.
+
+👉 View the full project here: [NDIS Report](https://github.com/jack-galileo04/NDIS-report)
+
+---
+
+### 💰 Motor Vehicle Insurance Pricing Model (R, tidyverse, tidymodels)
 End-to-end machine learning project, with exploratory data analysis and regression techniques to price motor vehicle insurance policies.
 
 👉 View the full project here: [Motor Insurance Pricing Model](https://github.com/jack-galileo04/Motor-Insurance-Pricing)
 
 ---
 
-### 💰 Loan Default Prediction Model
+### 💰 Loan Default Prediction Model (R, tidyverse, tidymodels)
 End-to-end machine learning project, with exploratory data analysis and nearest neighbour classification techniques to analyse and predict loan defaults.
 
 👉 View the full project here: [Loan Default Model](https://github.com/jack-galileo04/Loan-Default-Risk)
 
 ---
 
-### 💰 General Insurance Pricing Model
+### 💰 General Insurance Pricing Model (R, tidyverse)
 End-to-end actuarial pricing project, with concise exploratory data analysis, GLM modelling of claim frequency and severity, and segment analysis on loss ratios.
 
 👉 View the full project here: [GI Pricing Model](https://github.com/jack-galileo04/GI-Pricing-Model)
