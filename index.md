@@ -87,5 +87,5 @@ End-to-end machine learning workflow (data cleaning → modelling → evaluation
 ## About Me
 - Actuarial Science Graduate
 - Experience with R, Excel, Python, Power BI, SQL.
-- Passionate about data anlysis, data science and statistical modelling.
+- Passionate about data analysis, data science, and statistical modelling.
 ---
