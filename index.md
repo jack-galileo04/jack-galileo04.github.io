@@ -1,8 +1,8 @@
 
 # Jack Galea — Data & Analytics Portfolio
 
-Hi! I'm Jack, an actuarial science graduate and data analyst based in Canberra.  
-I build models and dashboards using R, Python, SQL, and Power BI.
+Hi! I'm Jack, an Actuarial Science graduate based in Canberra.  
+I love to build models, dashboards, and reports using R, Python, SQL, and Power BI. 
 
 ---
 
