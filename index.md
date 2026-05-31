@@ -8,15 +8,15 @@ I love to build models, dashboards, and reports using R, Python, SQL, and Power 
 
 ## Featured Projects
 
-### 🏆 NRL Match Prediction Model (R, tidyverse, tidymodels)
-Predictive model using match-level granularity, rolling averages, special metrics (xG, xGChain...), ELO, bookmaker odds, and ML techniques.
+### 🏆 NRL Match Predictive Data Pipeline (R + Power BI, tidyverse, tidymodels)
+A reproducible, end-to-end data pipeline forming National Rugby League match predictions with team and player level data granularity. 
 
 👉 View the full project here: [NRL Model](https://github.com/jack-galileo04/nrl-model)
 
 ---
 
-### 💰 Retirement Modelling Dashboard (Power BI + R)
-A personalised projection model incorporating financial forecasting, demographic forecasting, and Monte-Carlo simulations.
+### 💰 Retirement Modelling Dashboard (R + Power BI)
+A personalised projection model and interactive report incorporating financial forecasting, demographic forecasting, and Monte-Carlo simulations.
 
 👉 View the full project here: [Retirement Code](https://github.com/jack-galileo04/retirement-report)
 
