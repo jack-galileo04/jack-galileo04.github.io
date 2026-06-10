@@ -24,6 +24,13 @@ A personalised projection model and interactive report incorporating financial f
 
 ---
 
+### 🎬 Letterboxd Movie Ratings Prediction & Shiny Dashboard
+End-to-end predictive modelling workflow exploring my personal movie rating behaviour by combining data from Letterboxd, and IMDb, leveraging data scraping, NLP techniques, and ML modelling frameworks.
+
+👉 View the full project here: [Letterboxd Model](https://github.com/jack-galileo04/letterboxd-rating)
+
+---
+
 ### 🏆 EPL Match Prediction Model (R, tidyverse, tidymodels)
 Predictive model using player-level granularity, rolling averages, special metrics (xG, xGChain...), ELO, bookmaker odds, and ML techniques.
 
