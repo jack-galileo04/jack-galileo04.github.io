@@ -13,6 +13,7 @@ A reproducible, end-to-end data pipeline forming National Rugby League match pre
 
 👉 View the full project here: [NRL Model](https://github.com/jack-galileo04/nrl-model)
 
+📷 Dashboard Preview: ![NRL Dashboard Preview](images/nrl_model_dashboard.png)
 ---
 
 ### 💰 Retirement Modelling Dashboard (R + Power BI)
