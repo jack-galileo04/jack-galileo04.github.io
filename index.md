@@ -29,6 +29,8 @@ End-to-end predictive modelling workflow exploring my personal movie rating beha
 
 👉 View the full project here: [Letterboxd Model](https://github.com/jack-galileo04/letterboxd-rating)
 
+📷 Dashboard Preview: ![Letterboxd Dashboard Preview](images/letterboxd_shiny_dashboard.png)
+
 ---
 
 ### 🏆 EPL Match Prediction Model (R, tidyverse, tidymodels)
