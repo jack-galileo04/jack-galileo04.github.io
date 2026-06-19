@@ -13,14 +13,16 @@ A reproducible, end-to-end data pipeline forming National Rugby League match pre
 
 👉 View the full project here: [NRL Model](https://github.com/jack-galileo04/nrl-model)
 
+📷 Dashboard Preview: ![NRL Dashboard Preview](images/nrl_model_dashboard.png)
+
 ---
 
 ### 💰 Retirement Modelling Dashboard (R + Power BI)
 A personalised projection model and interactive report incorporating financial forecasting, demographic forecasting, and Monte-Carlo simulations.
 
-👉 View the full project here: [Retirement Code](https://github.com/jack-galileo04/retirement-report)
+👉 View the full project here: [Retirement Savings Repo](https://github.com/jack-galileo04/retirement-report)
 
-👉 View the report here: [Retirement Report](https://app.powerbi.com/view?r=eyJrIjoiNDgyMGQ5YzEtNWI4Mi00ZDhlLThiMGMtOWJkMzZlYTc3NzAyIiwidCI6IjNhYTEyYWIxLWQyNGEtNGI0Yy04YjI0LTk5ZWI3ODE2YzJjZSJ9&pageName=f4c125951603c0da0ae3)
+👉 View the report here: [Retirement Savings Report](https://app.powerbi.com/view?r=eyJrIjoiNDgyMGQ5YzEtNWI4Mi00ZDhlLThiMGMtOWJkMzZlYTc3NzAyIiwidCI6IjNhYTEyYWIxLWQyNGEtNGI0Yy04YjI0LTk5ZWI3ODE2YzJjZSJ9&pageName=f4c125951603c0da0ae3)
 
 ---
 
