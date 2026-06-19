@@ -24,6 +24,8 @@ A personalised projection model and interactive report incorporating financial f
 
 👉 View the report here: [Retirement Savings Report](https://app.powerbi.com/view?r=eyJrIjoiNDgyMGQ5YzEtNWI4Mi00ZDhlLThiMGMtOWJkMzZlYTc3NzAyIiwidCI6IjNhYTEyYWIxLWQyNGEtNGI0Yy04YjI0LTk5ZWI3ODE2YzJjZSJ9&pageName=f4c125951603c0da0ae3)
 
+📷 Dashboard Preview: ![Retirement Savings Dashboard](images/retirement_savings_dashboard.png)
+
 ---
 
 ### 🎬 Letterboxd Movie Ratings Prediction & Shiny Dashboard
@@ -49,6 +51,8 @@ An interactive report visualising Australian Government Grants insights, incorpo
 
 👉 View the report here: [Government Grants Report](https://app.powerbi.com/view?r=eyJrIjoiOWJjY2I1MmQtYTA3Yi00MDgyLThkYzYtMWNjMDgzMjk1NDkyIiwidCI6IjNhYTEyYWIxLWQyNGEtNGI0Yy04YjI0LTk5ZWI3ODE2YzJjZSJ9&pageName=ade89b2574cee15b2704)
 
+📷 Dashboard Preview: ![Retirement Savings Dashboard](images/government_grants_dashboard.png)
+
 ---
 
 ### AusTender Contracts Report (Power BI)
@@ -57,6 +61,8 @@ An interactive report visualising Australian contract insights using time series
 👉 View the full project here: [AusTender Project](https://github.com/jack-galileo04/austender-report)
 
 👉 View the report here: [AusTender Report](https://app.powerbi.com/view?r=eyJrIjoiNjhhZGM1ZjktN2U2Ni00OGQ0LThhYzItNTk3OGUzYjM4MjM5IiwidCI6IjNhYTEyYWIxLWQyNGEtNGI0Yy04YjI0LTk5ZWI3ODE2YzJjZSJ9&pageName=b31bb2a99dd0f4653f90)
+
+📷 Dashboard Preview: ![Retirement Savings Dashboard](images/AusTender_dashboard.png)
 
 ---
 
