@@ -18,7 +18,7 @@ A reproducible, end-to-end data pipeline forming National Rugby League match pre
 ---
 
 ### 💰 Retirement Modelling Dashboard (R + Power BI)
-A personalised projection model and interactive report incorporating financial forecasting, demographic forecasting, and Monte-Carlo simulations.
+A personalised retirement forecasting model and interactive report incorporating financial and demographic modelling, scenario analysis, and Monte-Carlo simulations.
 
 👉 View the full project here: [Retirement Savings Repo](https://github.com/jack-galileo04/retirement-report)
 
