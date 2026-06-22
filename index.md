@@ -9,7 +9,7 @@ I love to build models, dashboards, and reports using R, Python, SQL, and Power 
 ## Featured Projects
 
 ### 🏆 NRL Match Predictive Data Pipeline (R + Power BI, tidyverse, tidymodels)
-A reproducible, end-to-end data pipeline forming National Rugby League match predictions with team and player level data granularity. 
+A reproducible, end-to-end data pipeline forming National Rugby League match predictions with team and player-level data granularity. 
 
 👉 View the full project here: [NRL Model](https://github.com/jack-galileo04/nrl-model)
 
