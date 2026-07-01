@@ -9,7 +9,7 @@ I love to build models, dashboards, and reports using R, Python, SQL, and Power 
 ## Featured Projects
 
 ### 🏆 NRL Match Predictive Data Pipeline (R + Power BI, tidyverse, tidymodels)
-A reproducible, end-to-end data pipeline forming National Rugby League match predictions with team and player level data granularity. 
+A reproducible, end-to-end data pipeline forming National Rugby League match predictions with team and player-level data granularity. 
 
 👉 View the full project here: [NRL Model](https://github.com/jack-galileo04/nrl-model)
 
@@ -22,7 +22,7 @@ A personalised retirement forecasting model and interactive report incorporating
 
 👉 View the full project here: [Retirement Savings Repo](https://github.com/jack-galileo04/retirement-report)
 
-👉 View the report here: [Retirement Savings Report](https://app.powerbi.com/view?r=eyJrIjoiNDgyMGQ5YzEtNWI4Mi00ZDhlLThiMGMtOWJkMzZlYTc3NzAyIiwidCI6IjNhYTEyYWIxLWQyNGEtNGI0Yy04YjI0LTk5ZWI3ODE2YzJjZSJ9&pageName=f4c125951603c0da0ae3)
+👉 View the report here: [Retirement Savings Report](https://app.powerbi.com/view?r=eyJrIjoiNDgyMGQ5YzEtNWI4Mi00ZDhlLThiMGMtOWJkMzZlYTc3NzAyIiwidCI6IjNhYTEyYWIxLWQyNGEtNGI0Yy04YjI0LTk5ZWI3ODE2YzJjZSJ9&pageName=fd5649d8ab8b02bfb164)
 
 📷 Dashboard Preview: ![Retirement Savings Dashboard](images/retirement_savings_dashboard.png)
 
