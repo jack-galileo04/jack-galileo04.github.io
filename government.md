@@ -2,6 +2,17 @@
 
 Projects focused on public-sector datasets and analytics, reporting and evidence-based decision-making.
 
+---
+
+# Table of Contents:
+- 🏠 [Home](index)
+- ⭐ [Featured Projects](featured)
+- 🏛 [**Government Analytics**](government)
+- 📊 [Data Science](ml)
+- 📈 [Actuarial Modelling](actuarial)
+
+---
+
 ### Government Grants Report
 An interactive report visualising Australian Government Grants insights, incorporating time series analysis, concentration risk assurance, and distribution across various parameters.
 
