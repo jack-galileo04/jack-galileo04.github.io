@@ -11,7 +11,7 @@
 [GitHub](https://github.com/jack-galileo04)
 
 ---
-## About Me:
+### About Me:
 
 I recently completed a degree in Actuarial Studies at the
 Australian National University.
@@ -26,9 +26,7 @@ health, finance, and operational challenges.
 
 Outside of analytics, I enjoy movies, music and following/playing sports.
 
----
-
-## Technical Skills
+### Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?styleadge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -38,7 +36,7 @@ Outside of analytics, I enjoy movies, music and following/playing sports.
 
 ---
 
-## Project Statistics:
+### Project Statistics:
 
 - 10+ Projects
 - 5+ Dashboards
