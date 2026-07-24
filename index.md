@@ -1,8 +1,9 @@
-/ •
-/featured •
-/government •
-[📊 Dataience •
-[📈 Actuarial
+| 🏠 Home | ⭐ Featured Projects | 🏛 Government Analytics | 📊 Data Science | 📈 Actuarial Modelling | 👤 About Me |
+|----------|----------|----------|----------|----------|----------|
+| / | [Featured| /government | /data-science | Actuarial |
+
+---
+
 
 # Jack Galea - Data & Analytics Portfolio
 
