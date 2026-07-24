@@ -1,5 +1,7 @@
 # Government Data Analytics
 
+Projects focused on public-sector datasets and analytics, reporting and evidence-based decision-making.
+
 ### Government Grants Report
 An interactive report visualising Australian Government Grants insights, incorporating time series analysis, concentration risk assurance, and distribution across various parameters.
 
