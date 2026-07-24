@@ -2,6 +2,17 @@
 
 Projects involving forecasting, insurance, demographics and long-term risk analysis.
 
+---
+
+# Table of Contents:
+- 🏠 [Home](index)
+- ⭐ [Featured Projects](featured)
+- 🏛 [Government Analytics](government)
+- 📊 [Data Science](ml)
+- 📈 [**Actuarial Modelling**](actuarial)
+
+---
+
 ### New Zealand Aged Care Insurance Scheme (Group University Project)
 A long-term demographic and financial projection assessing the financial suitability of a government-proposed Aged Care Insurance Scheme using New Zealand data.
 
