@@ -1,6 +1,6 @@
 | 🏠 Home | ⭐ Featured Projects | 🏛 Government Analytics | 📊 Data Science | 📈 Actuarial Modelling |
 |----------|----------|----------|----------|----------|
-| / | [Featured| /government | /data-science | Actuarial |
+| [index | [featured | /government | /data-science | actuarial |
 
 ---
 
