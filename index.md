@@ -9,8 +9,7 @@ Jack Galea -  Data & Analytics Portfolio
 
 📧 jackg04@outlook.com.au
 
-[LinkedIn](https://www.linkedin.com/in/jackgalea)
-
+[LinkedIn](https://www.linkedin.com/in/jackgalea) |
 [GitHub](https://github.com/jack-galileo04)
 
 ---
