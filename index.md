@@ -1,3 +1,9 @@
+/ •
+/featured •
+/government •
+[📊 Dataience •
+[📈 Actuarial
+
 # Jack Galea - Data & Analytics Portfolio
 
 🎓 Actuarial Studies Graduate | 📊 Data Analytics | 📈 Statistical Modelling
@@ -58,7 +64,6 @@ Outside of analytics, I enjoy movies, music and following/playing sports.
 
 ### Featured Projects
 My strongest end-to-end analytics projects.
-[Go to Featured Projects](featured)
 
 ### Government Analytics
 Public sector reporting and government datasets.
