@@ -20,11 +20,11 @@ Research, Statistics and Government.
 ---
 ## Project Statistics: 
 
-Projects: 10+
-Tools: Python, R, SQL, Power BI, Excel
-Dashboards: 5+
-Machine Learning (ML) Models: 6+
-Government Data Projects: 3+
+- Projects: 10+
+- Tools: Python, R, SQL, Power BI, Excel
+- Dashboards: 5+
+- Machine Learning (ML) Models: 6+
+- Government Data Projects: 3+
 
 ---
 
