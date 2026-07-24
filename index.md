@@ -74,12 +74,12 @@ Insurance, retirement, demographic and risk modelling.
 
 This portfolio demonstrates my ability to work across the entire analytics lifecycle:
 
-• Data collection
-• Data cleaning
-• Data modelling
-• Statistical analysis
-• Machine learning
-• Dashboard development
-• Communication of insights
+- Data collection
+- Data cleaning
+- Data modelling
+- Statistical analysis
+- Machine learning
+- Dashboard development
+- Communication of insights
 
 The projects reflect my interest in applying quantitative methods to real-world business and government problems.
