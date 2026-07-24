@@ -1,8 +1,3 @@
-Background: #0F172A
-Cards: #1E293B
-Text: #F8FAFC
-Accent: #38BDF8
-
 # Jack Galea — Data & Analytics Portfolio
 
 - Based in Canberra, ACT
