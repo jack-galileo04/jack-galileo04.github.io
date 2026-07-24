@@ -1,6 +1,8 @@
 # Home Page
 
-🎓 Actuarial Studies Graduate | 📊 Data Analytics | 📈 Statistical Modelling
+- 🎓 Actuarial Studies Graduate
+- 📊 Data Analytics
+- 📈 Statistical Modelling
 
 📍 Canberra, ACT
 
