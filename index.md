@@ -29,59 +29,11 @@ health, finance, and operational challenges.
 Outside of analytics, I enjoy movies, music and following/playing sports.
 
 ---
-<div style="
-display:flex;
-flex-wrap:wrap;
-gap:15px;
-justify-content:center;
-margin-bottom:30px;
-">
 
-<div style="
-padding:20px;
-border-radius:15px;
-background:#f3f4f6;
-width:180px;
-text-align:center;
-">
-<h2>10+</h2>
-Projects
-</div>
-
-<div style="
-padding:20px;
-border-radius:15px;
-background:#f3f4f6;
-width:180px;
-text-align:center;
-">
-<h2>5+</h2>
-Dashboards
-</div>
-
-<div style="
-padding:20px;
-border-radius:15px;
-background:#f3f4f6;
-width:180px;
-text-align:center;
-">
-<h2>6+</h2>
-ML Models
-</div>
-
-<div style="
-padding:20px;
-border-radius:15px;
-background:#f3f4f6;
-width:180px;
-text-align:center;
-">
-<h2>3+</h2>
-Government Projects
-</div>
-
-</div>
+10+ Projects
+5+ Dashboards
+6+ ML Models
+3+ Government Projects
 
 ---
 
