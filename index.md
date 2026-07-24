@@ -29,11 +29,12 @@ health, finance, and operational challenges.
 Outside of analytics, I enjoy movies, music and following/playing sports.
 
 ---
+## Project Statistics:
 
-10+ Projects
-5+ Dashboards
-6+ ML Models
-3+ Government Projects
+- 10+ Projects
+- 5+ Dashboards
+- 6+ ML Models
+- 3+ Government Projects
 
 ---
 
