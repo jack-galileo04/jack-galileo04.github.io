@@ -1,43 +1,17 @@
-<div style="
-background: linear-gradient(135deg,#1e3a8a,#0f172a);
-padding:50px;
-border-radius:20px;
-color:white;
-text-align:center;
-box-shadow:0 8px 25px rgba(0,0,0,0.3);
-margin-bottom:30px;
-">
+Jack Galea -  Data & Analytics Portfolio
 
-<h1 style="margin-bottom:10px;">
-Jack Galea
-</h1>
-
-<h3 style="color:#93C5FD; margin-top:0;">
-Data & Analytics Portfolio
-</h3>
-
-<p style="font-size:18px;">
-🎓 Actuarial Studies Graduate &nbsp; | &nbsp;
-📊 Data Analytics &nbsp; | &nbsp;
-📈 Statistical Modelling &nbsp; | &nbsp;
+🎓 Actuarial Studies Graduate | 
+📊 Data Analytics | 
+📈 Statistical Modelling |
 🤖 Machine Learning
-</p>
 
-<p>
-📍 Canberra, ACT &nbsp; | &nbsp;
-</p>
+📍 Canberra, ACT 
 
-<p>
 📧 jackg04@outlook.com.au
-</p>
 
-<p>
-/jack-galileo04" target="_blank">GitHub</a>
-&nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/jackgalea" target="_blank">
+[LinkedIn](https://www.linkedin.com/in/jackgalea)
 
-</div>
-
+[GitHub](https://github.com/jack-galileo04)
 ---
 ## About Me:
 
