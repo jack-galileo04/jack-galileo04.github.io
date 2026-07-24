@@ -1,18 +1,13 @@
-/ index |
-/ ⭐ featured |
-/ 🏛 government |
-/ 📊 data-science |
-/ 📈 actuarial |
----
-
-| 🏠 Home | ⭐ Featured Projects | 🏛 Government Analytics | 📊 Data Science | 📈 Actuarial Modelling |
-|----------|----------|----------|----------|----------|
-| [Home](index) | [Featured](featured) | [Government](government) | [Machine Learning](ml) | [Actuarial](actuarial) |
+# Table of Contents:
+- 🏠 [**Home**](index)
+- ⭐ [Featured Projects](featured)
+- 🏛 [Government Analytics](government)
+- 📊 [Data Science](ml)
+- 📈 [Actuarial Modelling](actuarial)
 
 ---
 
-
-# Jack Galea - Data & Analytics Portfolio
+# Home Page
 
 🎓 Actuarial Studies Graduate | 📊 Data Analytics | 📈 Statistical Modelling
 
