@@ -13,7 +13,7 @@ Projects involving forecasting, insurance, demographics and long-term risk analy
 
 ---
 
-### New Zealand Aged Care Insurance Scheme (Group University Project)
+# New Zealand Aged Care Insurance Scheme (Group University Project)
 A long-term demographic and financial projection assessing the financial suitability of a government-proposed Aged Care Insurance Scheme using New Zealand data.
 
 Tools:
@@ -29,7 +29,7 @@ Key Outcomes:
 
 ---
 
-### NDIS Scheme Cost Growth and Fiscal Risk Report
+# NDIS Scheme Cost Growth and Fiscal Risk Report
 A written report, analysing the medium-term fiscal sustainability of the Australian National Disability Insurance Scheme, using demographic and economic modelling.
 
 Tools:
@@ -47,7 +47,7 @@ Key Outcomes:
 
 ---
 
-### 🚗 Motor Vehicle Insurance Pricing Model
+# 🚗 Motor Vehicle Insurance Pricing Model
 End-to-end machine learning project, with exploratory data analysis and regression techniques to price motor vehicle insurance policies.
 
 Tools:
