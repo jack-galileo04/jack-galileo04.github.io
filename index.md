@@ -17,7 +17,8 @@ Skilled in Python, R, SQL, Power BI and modern analytics workflows.
 Interested in applying quantitative methods to public policy,
 health, finance, and operational challenges.
 
-Outside of analytics, I enjoy movies, music and following/playing sport, 
+Outside of analytics, I enjoy movies, music and following/playing sports.
+
 ---
 ## Project Statistics: 
 
