@@ -15,11 +15,21 @@ Power BI |
 Machine Learning
 </p>
 
+<p>
+- Based in Canberra, ACT
+</p>
+
+<p>
+- email: jackg04@outlook.com.au
+</p>
+
+<p>
+[GitHub](https://github.com/jack-galileo04) | [LinkedIn](www.linkedin.com/in/jackgalea)
+</p>
+
 </div>
 
-- Based in Canberra, ACT
-- email: jackg04@outlook.com.au
-[GitHub](https://github.com/jack-galileo04) | [LinkedIn](www.linkedin.com/in/jackgalea)
+
 ---
 ## About Me:
 
