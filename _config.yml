@@ -1,3 +1,8 @@
 title: Jack Galea
-description: Data & Analytics Portfolio
 theme: jekyll-theme-slate
+
+header_pages:
+  - government.md
+  - actuarial.md
+  - ml.md
+  - about.md
