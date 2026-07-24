@@ -1,0 +1,8 @@
+title: Jack Galea
+theme: jekyll-theme-slate
+
+header_pages:
+  - featured.md
+  - government.md
+  - ml.md
+  - actuarial.md
