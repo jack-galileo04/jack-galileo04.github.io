@@ -14,11 +14,11 @@
 ---
 
 # Table of Contents:
-- 🏠 [**Home**](index)
-- ⭐ [Featured Projects](featured)
-- 🏛 [Government Analytics](government)
-- 📊 [Data Science](ml)
-- 📈 [Actuarial Modelling](actuarial)
+- 🏠 [**Home**](index) - Home page and "about me" information.
+- ⭐ [Featured Projects](featured) - My strongest end-to-end analytics projects.
+- 🏛 [Government Analytics](government) - Public sector reporting and government datasets.
+- 📊 [Data Science](ml) - Machine learning, predictive modelling and forecasting.
+- 📈 [Actuarial Modelling](actuarial) - Insurance, retirement, demographic and risk modelling.
 
 ---
 
@@ -62,22 +62,6 @@ Outside of analytics, I enjoy movies, music and following/playing sports.
 - Government Analytics Projects
 - Financial & Actuarial Business Projects
 - Python, R, SQL & Power BI
-
----
-
-## Explore
-
-### Featured Projects
-My strongest end-to-end analytics projects.
-
-### Government Analytics
-Public sector reporting and government datasets.
-
-### Data Science & Machine Learning
-Machine learning, predictive modelling and forecasting.
-
-### Actuarial Modelling
-Insurance, retirement, demographic and risk modelling.
 
 ---
 
