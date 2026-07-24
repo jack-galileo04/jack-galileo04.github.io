@@ -1,4 +1,4 @@
-| 🏠 Home | ⭐ Featured Projects | 🏛 Government Analytics | 📊 Data Science | 📈 Actuarial Modelling | 👤 About Me |
+| 🏠 Home | ⭐ Featured Projects | 🏛 Government Analytics | 📊 Data Science | 📈 Actuarial Modelling |
 |----------|----------|----------|----------|----------|----------|
 | / | [Featured| /government | /data-science | Actuarial |
 
