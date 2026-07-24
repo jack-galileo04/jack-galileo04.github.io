@@ -13,7 +13,7 @@ My best analytics and modelling work.
 
 ---
 
-### 🏆 NRL Match Predictive Data Pipeline
+# 🏆 NRL Match Predictive Data Pipeline
 A reproducible, end-to-end predictive modelling and data pipeline forming National Rugby League match predictions with team and player-level data granularity. 
 
 Tools:
@@ -31,7 +31,7 @@ Key Outcomes:
 
 ---
 
-### 💰 Retirement Savings Modelling Report
+# 💰 Retirement Savings Modelling Report
 A personalised retirement forecasting solution using demographic, economic, and mortality modelling techniques.
 
 Tools:
