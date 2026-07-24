@@ -1,34 +1,40 @@
 <div style="
 background: linear-gradient(135deg,#1e3a8a,#0f172a);
-padding:40px;
-border-radius:15px;
+padding:50px;
+border-radius:20px;
 color:white;
 text-align:center;
+box-shadow:0 8px 25px rgba(0,0,0,0.3);
+margin-bottom:30px;
 ">
 
-<h1>Jack Galea - Data & Analytics Portfolio</h1>
+<h1 style="margin-bottom:10px;">
+Jack Galea
+</h1>
 
-<p>
-Actuarial Studies Graduate |
-Data Analytics |
-Power BI |
-Machine Learning
+<h3 style="color:#93C5FD; margin-top:0;">
+Data & Analytics Portfolio
+</h3>
+
+<p style="font-size:18px;">
+🎓 Actuarial Studies Graduate &nbsp; | &nbsp;
+📊 Data Analytics &nbsp; | &nbsp;
+📈 Statistical Modelling &nbsp; | &nbsp;
+🤖 Machine Learning
 </p>
 
 <p>
-- Based in Canberra, ACT
+📍 Canberra, ACT &nbsp; | &nbsp;
 </p>
 
 <p>
-- email: jackg04@outlook.com.au
+📧 jackg04@outlook.com.au
 </p>
 
 <p>
-[GitHub](https://github.com/jack-galileo04) | [LinkedIn](www.linkedin.com/in/jackgalea)
-</p>
-
-</div>
-
+/jack-galileo04" target="_blank">GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/jackgalea" target="_blank">
 
 ---
 ## About Me:
@@ -47,13 +53,59 @@ health, finance, and operational challenges.
 Outside of analytics, I enjoy movies, music and following/playing sports.
 
 ---
-## Project Statistics: 
+<div style="
+display:flex;
+flex-wrap:wrap;
+gap:15px;
+justify-content:center;
+margin-bottom:30px;
+">
 
-- Projects: 10+
-- Tools: Python, R, SQL, Power BI, Excel
-- Dashboards: 5+
-- Machine Learning (ML) Models: 6+
-- Government Data Projects: 3+
+<div style="
+padding:20px;
+border-radius:15px;
+background:#f3f4f6;
+width:180px;
+text-align:center;
+">
+<h2>10+</h2>
+Projects
+</div>
+
+<div style="
+padding:20px;
+border-radius:15px;
+background:#f3f4f6;
+width:180px;
+text-align:center;
+">
+<h2>5+</h2>
+Dashboards
+</div>
+
+<div style="
+padding:20px;
+border-radius:15px;
+background:#f3f4f6;
+width:180px;
+text-align:center;
+">
+<h2>6+</h2>
+ML Models
+</div>
+
+<div style="
+padding:20px;
+border-radius:15px;
+background:#f3f4f6;
+width:180px;
+text-align:center;
+">
+<h2>3+</h2>
+Government Projects
+</div>
+
+</div>
 
 ---
 
