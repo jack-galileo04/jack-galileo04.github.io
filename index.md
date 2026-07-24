@@ -1,4 +1,4 @@
-remote_theme: Midnight
+<div style="2background: linear-gradient(135deg,#1e3a8a,#0f172a);3padding:40px;4border-radius:15px;5color:white;6text-align:center;7">8 9<h1>Jack Galea</h1>10 11<p>12Actuarial Studies Graduate |13Data Analytics |14Power BI |15Machine Learning16</p>17 18</div>
 
 # Jack Galea — Data & Analytics Portfolio
 
