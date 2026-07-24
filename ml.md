@@ -13,7 +13,7 @@ Machine learning-focused projects.
 
 ---
 
-### 🎬 Letterboxd Movie Ratings Prediction & Shiny Dashboard
+# 🎬 Letterboxd Movie Ratings Prediction & Shiny Dashboard
 End-to-end predictive modelling workflow exploring my personal movie rating behaviour by combining data from Letterboxd and IMDb, leveraging data scraping, NLP techniques, and ML modelling frameworks.
 
 Tools:
@@ -31,7 +31,7 @@ Key Outcomes:
 
 ---
 
-### 💰 Loan Default Prediction Model
+# 💰 Loan Default Prediction Model
 End-to-end machine learning project, with exploratory data analysis and nearest neighbour classification techniques to analyse and predict loan defaults.
 
 Tools:
