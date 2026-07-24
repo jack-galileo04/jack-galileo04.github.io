@@ -58,6 +58,7 @@ Outside of analytics, I enjoy movies, music and following/playing sports.
 
 ### Featured Projects
 My strongest end-to-end analytics projects.
+[Go to Featured Projects](featured)
 
 ### Government Analytics
 Public sector reporting and government datasets.
