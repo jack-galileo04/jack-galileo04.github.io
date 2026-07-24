@@ -21,9 +21,11 @@ R | Excel | MS Word | MS PowerPoint
 
 Key Outcomes:
 - Developed long-term demographic and financial projections using mortality, fertility, migration, and insurance data. 
-- Built actuarial models to assess solvency and sustainability of a proposed government insurance scheme. 
+- Built actuarial models to assess the solvency and sustainability of a proposed government insurance scheme. 
 - Evaluated policy outcomes under alternative assumptions through scenario analysis. 
 - Delivered evidence-based recommendations and communicated findings to a non-technical audience.
+
+📷 Executive Summary: ![Executive Summary](images/NZ_executive_summary.png)
 
 ---
 
@@ -38,6 +40,8 @@ Key Outcomes:
 - Applied demographic and economic modelling techniques to quantify future cost pressures. 
 - Evaluated financial risks under varying assumptions and policy environments. 
 - Produced a written report translating technical analysis into policy-relevant insights.
+
+📷 Scenario Analysis: ![NDIS Scenario Analysis](images/NDIS_scenario_plot.png)
 
 👉 View the full project here: [NDIS Report](https://github.com/jack-galileo04/NDIS-report)
 
