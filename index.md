@@ -12,6 +12,7 @@ Jack Galea -  Data & Analytics Portfolio
 [LinkedIn](https://www.linkedin.com/in/jackgalea)
 
 [GitHub](https://github.com/jack-galileo04)
+
 ---
 ## About Me:
 
