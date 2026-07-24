@@ -1,8 +1,8 @@
 
 # Jack Galea — Data & Analytics Portfolio
 
-Canberra-based
-email: jackg04@outlook.com.au
+- Canberra-based
+- email: jackg04@outlook.com.au
 ---
 ## About Me:
 
