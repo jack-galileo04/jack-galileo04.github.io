@@ -2,6 +2,17 @@
 
 Machine learning-focused projects.
 
+---
+
+# Table of Contents:
+- 🏠 [Home](index)
+- ⭐ [Featured Projects](featured)
+- 🏛 [**Government Analytics**](government)
+- 📊 [Data Science](ml)
+- 📈 [Actuarial Modelling](actuarial)
+
+---
+
 ### 🎬 Letterboxd Movie Ratings Prediction & Shiny Dashboard
 End-to-end predictive modelling workflow exploring my personal movie rating behaviour by combining data from Letterboxd and IMDb, leveraging data scraping, NLP techniques, and ML modelling frameworks.
 
