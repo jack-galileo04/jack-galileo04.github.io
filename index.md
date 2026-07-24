@@ -1,3 +1,7 @@
+Background: #0F172A
+Cards: #1E293B
+Text: #F8FAFC
+Accent: #38BDF8
 
 # Jack Galea — Data & Analytics Portfolio
 
@@ -7,17 +11,18 @@
 ---
 ## About Me:
 
-Actuarial Science graduate based in Canberra with experience in
-predictive modelling, statistical analysis, Power BI reporting,
-and data-driven decision-making.
+I recently completed a degree in Actuarial Studies at the
+Australian National University.
+
+I enjoy applying statistical and analytical techniques to
+real-world problems, particularly where uncertainty,
+forecasting, risk, and decision-making are involved.
 
 Skilled in Python, R, SQL, Power BI and modern analytics workflows.
 Interested in applying quantitative methods to public policy,
 health, finance, and operational challenges.
 
-Currently seeking entry-level opportunities in Data, Analytics,
-Research, Statistics and Government.
-
+Outside of analytics, I enjoy movies, music and following/playing sport, 
 ---
 ## Project Statistics: 
 
@@ -210,8 +215,16 @@ R
 
 ---
 
+# Why I Built This Portfolio
 
+This portfolio demonstrates my ability to work across the entire analytics lifecycle:
 
+• Data collection
+• Data cleaning
+• Data modelling
+• Statistical analysis
+• Machine learning
+• Dashboard development
+• Communication of insights
 
-
-
+The projects reflect my interest in applying quantitative methods to real-world business and government problems.
