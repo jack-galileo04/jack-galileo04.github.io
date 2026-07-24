@@ -22,7 +22,7 @@
 
 ---
 
-### About Me
+# About Me
 
 I recently completed a degree in Actuarial Studies at the
 Australian National University.
