@@ -1,4 +1,4 @@
-Jack Galea -  Data & Analytics Portfolio
+# Jack Galea -  Data & Analytics Portfolio
 
 🎓 Actuarial Studies Graduate | 
 📊 Data Analytics | 
