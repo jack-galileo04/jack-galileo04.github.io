@@ -1,3 +1,10 @@
+/ index |
+/ ⭐ featured |
+/ 🏛 government |
+/ 📊 data-science |
+/ 📈 actuarial |
+---
+
 | 🏠 Home | ⭐ Featured Projects | 🏛 Government Analytics | 📊 Data Science | 📈 Actuarial Modelling |
 |----------|----------|----------|----------|----------|
 | [Home](index) | [Featured](featured) | [Government](government) | [Machine Learning](ml) | [Actuarial](actuarial) |
