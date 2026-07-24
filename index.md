@@ -36,6 +36,8 @@ Data & Analytics Portfolio
 &nbsp;•&nbsp;
 <a href="https://www.linkedin.com/in/jackgalea" target="_blank">
 
+</div>
+
 ---
 ## About Me:
 
