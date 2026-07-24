@@ -1,11 +1,17 @@
----
-layout: default
-title: Featured Projects
----
-
 # Featured Projects
 
 My best analytics and modelling work.
+
+---
+
+# Table of Contents:
+- 🏠 [Home](index)
+- ⭐ [**Featured Projects**](featured)
+- 🏛 [Government Analytics](government)
+- 📊 [Data Science](ml)
+- 📈 [Actuarial Modelling](actuarial)
+
+---
 
 ### 🏆 NRL Match Predictive Data Pipeline
 A reproducible, end-to-end predictive modelling and data pipeline forming National Rugby League match predictions with team and player-level data granularity. 
