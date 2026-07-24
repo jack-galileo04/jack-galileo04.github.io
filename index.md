@@ -6,7 +6,7 @@ color:white;
 text-align:center;
 ">
 
-<h1>Jack Galea</h1>
+<h1>Jack Galea - Data & Analytics Portfolio</h1>
 
 <p>
 Actuarial Studies Graduate |
@@ -16,8 +16,6 @@ Machine Learning
 </p>
 
 </div>
-
-# Jack Galea — Data & Analytics Portfolio
 
 - Based in Canberra, ACT
 - email: jackg04@outlook.com.au
