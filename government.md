@@ -13,7 +13,7 @@ Projects focused on public-sector datasets and analytics, reporting and evidence
 
 ---
 
-### Government Grants Report
+# Government Grants Report
 An interactive report visualising Australian Government Grants insights, incorporating time series analysis, concentration risk assurance, and distribution across various parameters.
 
 Tools:
@@ -32,7 +32,7 @@ Key Outcomes:
 
 ---
 
-### AusTender Contracts Report
+# AusTender Contracts Report
 An interactive report visualising Australian contract insights using time series and snapshot data across suppliers, agencies, and categories.
 
 Tools:
