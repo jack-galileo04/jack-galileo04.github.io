@@ -1,12 +1,3 @@
-# Table of Contents:
-- 🏠 [**Home**](index)
-- ⭐ [Featured Projects](featured)
-- 🏛 [Government Analytics](government)
-- 📊 [Data Science](ml)
-- 📈 [Actuarial Modelling](actuarial)
-
----
-
 # Home Page
 
 🎓 Actuarial Studies Graduate | 📊 Data Analytics | 📈 Statistical Modelling
@@ -17,6 +8,15 @@
 
 [LinkedIn](https://www.linkedin.com/in/jackgalea) |
 [GitHub](https://github.com/jack-galileo04)
+
+---
+
+# Table of Contents:
+- 🏠 [**Home**](index)
+- ⭐ [Featured Projects](featured)
+- 🏛 [Government Analytics](government)
+- 📊 [Data Science](ml)
+- 📈 [Actuarial Modelling](actuarial)
 
 ---
 
