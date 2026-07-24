@@ -1,6 +1,6 @@
 # Data Science & ML
 
-Projects focused on less outcome-focused machine learning modelling.
+Machine learning-focused projects.
 
 ### 🎬 Letterboxd Movie Ratings Prediction & Shiny Dashboard
 End-to-end predictive modelling workflow exploring my personal movie rating behaviour by combining data from Letterboxd and IMDb, leveraging data scraping, NLP techniques, and ML modelling frameworks.
