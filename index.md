@@ -36,7 +36,7 @@ Outside of analytics, I enjoy movies, music and following/playing sports.
 
 ---
 
-### Project Statistics:
+### Project Statistics
 
 - 10+ Projects
 - 5+ Dashboards
