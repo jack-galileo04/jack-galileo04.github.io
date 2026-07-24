@@ -1,3 +1,5 @@
+remote_theme: Midnight
+
 # Jack Galea — Data & Analytics Portfolio
 
 - Based in Canberra, ACT
