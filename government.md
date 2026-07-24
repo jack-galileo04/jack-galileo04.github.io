@@ -4,7 +4,7 @@ Projects focused on public-sector datasets and analytics, reporting and evidence
 
 ---
 
-# Table of Contents:
+# Portfolio Page Links
 - 🏠 [Home](index) - Home page and "about me" information.
 - ⭐ [Featured Projects](featured) - My strongest end-to-end analytics projects.
 - 🏛 [**Government Analytics**](government) - Public sector reporting and government datasets.
