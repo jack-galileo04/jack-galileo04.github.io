@@ -25,6 +25,8 @@ health, finance, and operational challenges.
 
 Outside of analytics, I enjoy movies, music and following/playing sports.
 
+---
+
 **Technical Skills:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?styleadge&logo=python&logoColor=white)
@@ -32,6 +34,12 @@ Outside of analytics, I enjoy movies, music and following/playing sports.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badgei&logoColor=yellow)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badgei&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-79a144?style=for-the-badgei&logoColor=green)
+
+**Certifications:**
+
+- Microsoft PL-300
+- Microsoft AI-900
+- Microsoft DP-900
 
 ---
 
