@@ -29,7 +29,7 @@ Research, Statistics and Government.
 
 ---
 
-## Featured Project
+# Featured Project
 
 ### 🏆 NRL Match Predictive Data Pipeline
 A reproducible, end-to-end predictive modelling and data pipeline forming National Rugby League match predictions with team and player-level data granularity. 
@@ -49,7 +49,7 @@ Key Outcomes:
 
 ---
 
-## Government Data Analytics
+# Government Data Analytics
 
 ### Government Grants Report
 An interactive report visualising Australian Government Grants insights, incorporating time series analysis, concentration risk assurance, and distribution across various parameters.
@@ -90,7 +90,7 @@ Key Outcomes:
 
 ---
 
-## Actuarial & Risk Modelling
+# Actuarial & Risk Modelling
 
 ### 💰 Retirement Savings Modelling Report
 A personalised retirement forecasting solution using demographic, economic, and mortality modelling techniques.
@@ -174,7 +174,7 @@ Key Outcomes:
 
 ---
 
-## Data Science & ML
+# Data Science & ML
 
 ### 🎬 Letterboxd Movie Ratings Prediction & Shiny Dashboard
 End-to-end predictive modelling workflow exploring my personal movie rating behaviour by combining data from Letterboxd and IMDb, leveraging data scraping, NLP techniques, and ML modelling frameworks.
