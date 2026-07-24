@@ -26,6 +26,8 @@ health, finance, and operational challenges.
 
 Outside of analytics, I enjoy movies, music and following/playing sports.
 
+---
+
 ### Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?styleadge&logo=python&logoColor=white)
