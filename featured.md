@@ -4,16 +4,16 @@ My best analytics and modelling work.
 
 ---
 
-# Table of Contents:
+# Portfolio Page Links
 - 🏠 [Home](index) - Home page and "about me" information.
-- ⭐ [**Featured Projects**](featured) - My strongest end-to-end analytics projects.
-- 🏛 [Government Analytics](government) - Public sector reporting and government datasets.
-- 📊 [Data Science](ml) - Machine learning, predictive modelling and forecasting.
-- 📈 [Actuarial Modelling](actuarial) - Insurance, retirement, demographic and risk modelling.
+- ⭐ [**Featured Projects**](featured) - My strongest end-to-end analytics projects (sports predictive modelling pipeline, retirement forecasting report)
+- 🏛 [Government Analytics](government) - Public sector reporting and government datasets (government data Power BI reports)
+- 📊 [Data Science](ml) - Machine learning (ML), predictive modelling and forecasting (end-to-end ML apps and reports)
+- 📈 [Actuarial Modelling](actuarial) - Insurance, retirement, demographic and risk modelling (insurance and policy actuarial analysis)
 
 ---
 
-### 🏆 NRL Match Predictive Data Pipeline
+# 🏆 NRL Match Predictive Data Pipeline
 A reproducible, end-to-end predictive modelling and data pipeline forming National Rugby League match predictions with team and player-level data granularity. 
 
 Tools:
@@ -31,7 +31,7 @@ Key Outcomes:
 
 ---
 
-### 💰 Retirement Savings Modelling Report
+# 💰 Retirement Savings Modelling Report
 A personalised retirement forecasting solution using demographic, economic, and mortality modelling techniques.
 
 Tools:

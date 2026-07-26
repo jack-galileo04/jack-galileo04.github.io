@@ -4,16 +4,16 @@ Projects involving forecasting, insurance, demographics and long-term risk analy
 
 ---
 
-# Table of Contents:
+# Portfolio Page Links
 - 🏠 [Home](index) - Home page and "about me" information.
-- ⭐ [Featured Projects](featured) - My strongest end-to-end analytics projects.
-- 🏛 [Government Analytics](government) - Public sector reporting and government datasets.
-- 📊 [Data Science](ml) - Machine learning, predictive modelling and forecasting.
-- 📈 [**Actuarial Modelling**](actuarial) - Insurance, retirement, demographic and risk modelling.
+- ⭐ [Featured Projects](featured) - My strongest end-to-end analytics projects (sports predictive modelling pipeline, retirement forecasting report)
+- 🏛 [Government Analytics](government) - Public sector reporting and government datasets (government data Power BI reports)
+- 📊 [Data Science](ml) - Machine learning (ML), predictive modelling and forecasting (end-to-end ML apps and reports)
+- 📈 [**Actuarial Modelling**](actuarial) - Insurance, retirement, demographic and risk modelling (insurance and policy actuarial analysis)
 
 ---
 
-### New Zealand Aged Care Insurance Scheme (Group University Project)
+# New Zealand Aged Care Insurance Scheme (Group University Project)
 A long-term demographic and financial projection assessing the financial suitability of a government-proposed Aged Care Insurance Scheme using New Zealand data.
 
 Tools:
@@ -29,7 +29,7 @@ Key Outcomes:
 
 ---
 
-### NDIS Scheme Cost Growth and Fiscal Risk Report
+# NDIS Scheme Cost Growth and Fiscal Risk Report
 A written report, analysing the medium-term fiscal sustainability of the Australian National Disability Insurance Scheme, using demographic and economic modelling.
 
 Tools:
@@ -47,7 +47,7 @@ Key Outcomes:
 
 ---
 
-### 🚗 Motor Vehicle Insurance Pricing Model
+# 🚗 Motor Vehicle Insurance Pricing Model
 End-to-end machine learning project, with exploratory data analysis and regression techniques to price motor vehicle insurance policies.
 
 Tools:
@@ -63,7 +63,7 @@ Key Outcomes:
 
 ---
 
-### 💼 General Insurance Pricing Model
+# 💼 General Insurance Pricing Model
 End-to-end actuarial pricing project, with concise exploratory data analysis, GLM modelling of claim frequency and severity, and segment analysis on loss ratios.
 
 Tools:

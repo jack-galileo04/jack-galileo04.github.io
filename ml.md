@@ -4,16 +4,16 @@ Machine learning-focused projects.
 
 ---
 
-# Table of Contents:
-- 🏠 [Home](index)  - Home page and "about me" information.
-- ⭐ [Featured Projects](featured) - My strongest end-to-end analytics projects.
-- 🏛 [**Government Analytics**](government) - Public sector reporting and government datasets.
-- 📊 [Data Science](ml) - Machine learning, predictive modelling and forecasting.
-- 📈 [Actuarial Modelling](actuarial) - Insurance, retirement, demographic and risk modelling.
+# Portfolio Page Links
+- 🏠 [Home](index) - Home page and "about me" information.
+- ⭐ [Featured Projects](featured) - My strongest end-to-end analytics projects (sports predictive modelling pipeline, retirement forecasting report)
+- 🏛 [Government Analytics](government) - Public sector reporting and government datasets (government data Power BI reports)
+- 📊 [**Data Science**](ml) - Machine learning (ML), predictive modelling and forecasting (end-to-end ML apps and reports)
+- 📈 [Actuarial Modelling](actuarial) - Insurance, retirement, demographic and risk modelling (insurance and policy actuarial analysis)
 
 ---
 
-### 🎬 Letterboxd Movie Ratings Prediction & Shiny Dashboard
+# 🎬 Letterboxd Movie Ratings Prediction & Shiny Dashboard
 End-to-end predictive modelling workflow exploring my personal movie rating behaviour by combining data from Letterboxd and IMDb, leveraging data scraping, NLP techniques, and ML modelling frameworks.
 
 Tools:
@@ -31,7 +31,7 @@ Key Outcomes:
 
 ---
 
-### 💰 Loan Default Prediction Model
+# 💰 Loan Default Prediction Model
 End-to-end machine learning project, with exploratory data analysis and nearest neighbour classification techniques to analyse and predict loan defaults.
 
 Tools:
