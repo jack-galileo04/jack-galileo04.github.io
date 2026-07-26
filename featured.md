@@ -6,10 +6,10 @@ My best analytics and modelling work.
 
 # Portfolio Page Links
 - 🏠 [Home](index) - Home page and "about me" information.
-- ⭐ [**Featured Projects**](featured) - My strongest end-to-end analytics projects.
-- 🏛 [Government Analytics](government) - Public sector reporting and government datasets.
-- 📊 [Data Science](ml) - Machine learning, predictive modelling and forecasting.
-- 📈 [Actuarial Modelling](actuarial) - Insurance, retirement, demographic and risk modelling.
+- ⭐ [**Featured Projects**](featured) - My strongest end-to-end analytics projects (sports predictive modelling pipeline, retirement forecasting report)
+- 🏛 [Government Analytics](government) - Public sector reporting and government datasets (government data Power BI reports)
+- 📊 [Data Science](ml) - Machine learning (ML), predictive modelling and forecasting (end-to-end ML apps and reports)
+- 📈 [Actuarial Modelling](actuarial) - Insurance, retirement, demographic and risk modelling (insurance and policy actuarial analysis)
 
 ---
 
