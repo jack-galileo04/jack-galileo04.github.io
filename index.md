@@ -75,4 +75,4 @@ This portfolio demonstrates my ability to work across the entire analytics lifec
 - Dashboard development
 - Communication of insights
 
-The projects reflect my interest in applying quantitative methods to real-world business and government problems.
+The projects reflect my interest in applying quantitative methods to real-world business and policy problems.
